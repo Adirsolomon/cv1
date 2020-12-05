@@ -1,7 +1,7 @@
+   a:hover{color:#db6400}
 
    body {
-     background-color:#e8ffff;
-   }
+     background-color:#e8ffff;}
 
     hr {
      border-style:none;
@@ -10,7 +10,12 @@
      border-width: 5px;
      width:5%;
     }
-    h1 {color: #222831;}
+    h1 {color: #222831;
+       font-size: 40px;
+       font-style:oblique; }
+
     h2 {color:#ec0101;}
+
     h3 {color:#5c2a9d;}
-    table{text-decoration:inherit;}
+
+   .check{color:#ec0101;}
